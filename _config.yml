@@ -11,7 +11,7 @@ baseurl:            ""
 permalink:          /:title.html
 
 # Markdown
-markdown:           rdiscount
+markdown:           kramdown
 
 # Navigation
 nav:
