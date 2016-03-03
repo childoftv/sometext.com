@@ -3,22 +3,24 @@
 # # # # # # # #
 
 # Basic
-name:               "Kiko"
+name:               "sometext"
 
 # URL
 baseurl:            ""
 #baseurl:            "" #For Root Domain
-permalink:          /:year/:month/:day/:title.html
+permalink:          /:title.html
 
 # Markdown
 markdown:           rdiscount
 
 # Navigation
 nav:
-  - name:           "About"
-    href:           "//kiko.gfjaru.com/about"
-  - name:           "Download"
-    href:           "//github.com/gfjaru/Kiko/releases"
+  - name:           "About Me"
+    href:           "/about"
+  - name:           "GitHub"
+    href:           "//github.com/childoftv"
+  - name:           "Resume"
+    href:           "/assets/Ben_Morrow_Resume_March_2016.pdf"
 
 # Sass
 sass:
