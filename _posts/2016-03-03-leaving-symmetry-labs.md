@@ -2,7 +2,7 @@
 title: Alighting here
 ---
 
-<img src="/assets/images/P1020291_1.jpg"></img>
+<img src="/assets/images/P1020291_1.jpg"/>
 
 With a flash of light and a twinge of sadness, I'm moving on from [Symmetry Labs](http://symmetrylabs.com) this month. This decision was reached mutually and amicably with the remaining founders and was largely based around our differing needs as individuals in the next few years.
 
