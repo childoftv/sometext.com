@@ -5,7 +5,7 @@ title: Statements about statements about society
 <p>It’s pretty easy to communicate “London is a city”, “I know London is a city” or even “I know that you think that London is a city”.</p>
 <p>But statements like “Everyone knows X and everyone knows that everyone knows X” start to make it much harder</p>
 <p>This happens to be the strong version of <a href="http://plato.stanford.edu/entries/epistemology-social/#4">‘group knowledge’</a> of X:</p>
-<p style="text-align: center;"><a href="http://www.xxory.com/wp-content/uploads/Group.png"><img class="aligncenter size-full wp-image-78" title="Strong Group Knoweldge" src="/assets/images/Group.png" alt="Strong Group Knoweldge" width="550" height="400"></a></p>
+<p style="text-align: center;"><a href="/assets/images/Group.png"><img title="Strong Group Knoweldge" src="/assets/images/Group.png" alt="Strong Group Knoweldge" width="550" height="400"></a></p>
 <p style="text-align: center;">
 </p><p style="text-align: center;">
 </p><p>‘I know that nobody thinks that everyone knows X” is harder still. If you aren’t convinced, just try building up to your own limit. The point isn’t that it’s hard to do, it’s that it’s hard to communicate.</p>
