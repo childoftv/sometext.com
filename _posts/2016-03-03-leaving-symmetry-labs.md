@@ -17,6 +17,8 @@ Notable other successes for my time at Symmetry included:
 * Being the star attraction at Google's techmakers party for the [Grace Hopper Women in Computing Conference](http://ghc.anitaborg.org/2015/)
 * Special event gigs with [Fourtet](https://twitter.com/FourTet) and [Bonobo](https://twitter.com/sibonobo)
 
+I've got some ideas about what's next but am taking a little time to explore the possibilities. If you'd like to chat please hit me up at [ben@sometext.com](mailto:ben@sometext.com)
+
 Above all, I am thankfull for getting to work with my close friends on a startup. This had been one of my dreams since long before moving to San Francisco. I wish you guys the very best in exciting climb ahead!
 <br/>
 
