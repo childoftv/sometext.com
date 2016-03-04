@@ -19,7 +19,7 @@ Notable other successes for my time at Symmetry included:
 
 I've got some ideas about what's next but am taking a little time to explore the possibilities. If you'd like to chat please hit me up at [ben@sometext.com](mailto:ben@sometext.com)
 
-Above all, I am thankfull for getting to work with my close friends on a startup. This had been one of my dreams since long before moving to San Francisco. I wish you guys the very best in exciting climb ahead!
+Above all, I am thankful for getting to work with my close friends on a startup. This had been one of my dreams since long before moving to San Francisco. I wish you guys the very best in exciting climb ahead!
 <br/>
 
 <div  style="font-style: italic">
