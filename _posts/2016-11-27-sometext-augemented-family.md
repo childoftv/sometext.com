@@ -1,6 +1,8 @@
 ---
-title: Augmented Family - some text on 2016 life updates and 2016
+title: Augmented Family
 ---
+
+_Some text on 2016 life updates and 2016..._
 
 
 [Jenny](http://donotlick.com) and I have been overjoyed and extremely fortunate to spend half of 2016 with our very own escapist [empathy machine](https://www.ted.com/talks/chris_milk_how_virtual_reality_can_create_the_ultimate_empathy_machine).
