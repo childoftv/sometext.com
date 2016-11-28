@@ -13,7 +13,11 @@ The new layer of reality that Scarlett (Born in June) has brought into our lives
 
 There are fears nonetheless. We feel keenly the duty to ensure that Scarlett a) has a world to grow up in and b) has a world that is well fit to be enjoyed by the people in it. We're very well aware that our concerns need to look far beyond our own family also: I like the term "participatory global society" as a 3 word summary of my 2 cents.
 
-Working at [BlippAR](http://blippar.com) in SF since April has been a different but complementary layer of my life. We're building a visual browser which [augments your reality](https://www.youtube.com/watch?v=byGdr7tV2sY) in [glorious interactive 3D](https://blippar.com/fr/resources/blog/2016/11/22/covent-garden-becomes-worlds-first-augmented-reality-retail-destination-powered-blippar/).  
+Working at [BlippAR](http://blippar.com) in SF since April has been a different but complementary layer of my life.
+
+<img src="https://thatedtechguy.files.wordpress.com/2015/11/fullsizerender-5.jpg"/>
+
+We're building a visual browser which [augments your reality](https://www.youtube.com/watch?v=byGdr7tV2sY) in [glorious interactive 3D](https://blippar.com/fr/resources/blog/2016/11/22/covent-garden-becomes-worlds-first-augmented-reality-retail-destination-powered-blippar/).
 
 Honestly, the experience has been truly inspiring and it's the largest and most global company I have worked for in a fulltime role. Those who know me know I have a [thing](http://sometext.com/leaving-symmetry-labs.html) for building [mashed-up](http://news.bbc.co.uk/2/hi/programmes/click_online/7039893.stm) [weird](http://idleworship.com/) "boundary" [media experiences](https://www.youtube.com/watch?v=WyScDPE8drE) that blur [function](https://github.com/childoftv/as3-websocket-server) and [form](https://vimeo.com/104574452). I don't know if I can call the zone a "medium," but if it was one it would be mine. At any rate, I have never felt so at home or so empowered to explore the boundaries of the zone as I have here.
 
