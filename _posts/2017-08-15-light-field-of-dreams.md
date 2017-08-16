@@ -12,4 +12,4 @@ I am thrilled to work closer to entertainment again and working on capture, VFX,
 
 If you'd like to work at the very cutting edge of the entertainment industry *I'm actively seeking experienced Python engineers*. Please reach out to ben@sometext.com or on [Facebook](https://www.facebook.com/benjaminmorrow)
 
-<iframe src="https://player.vimeo.com/video/213266879" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/213266879" width="100%" height="360" style="display: block;" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
