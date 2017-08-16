@@ -5,7 +5,7 @@ title: Light Field of Dreams - Joining Lytro
 <img src="assets/images/lytro-Immerge-light-field_featured-640x360@2x.jpg"/>
 
 
-At the end of the month I will be joining [Lytro](lytro.com) as Engineering Manager for Cloud Operations on the amazing team that [achieved this](http://blog.lytro.com/cloud-processing-for-light-field-data/). 
+At the end of the month I will be joining [Lytro](lytro.com) as *Engineering Manager for Cloud Operations* on the amazing team that [achieved this](http://blog.lytro.com/cloud-processing-for-light-field-data/). 
 
 Lytro have in recent years pivoted from their [consumer light field cameras](https://www.lytro.com/press/releases/lytro-inc-unveils-the-worlds-first-consumer-light-field-camera) towards larger scale use cases in cinema and VR. 
 
