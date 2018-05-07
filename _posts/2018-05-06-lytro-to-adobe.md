@@ -20,7 +20,7 @@ My team made:
 
 And this was all within *6 months!*
 
-There were quite a few long nights, long weeks and even long weekends full of cloud rendering but I couldn't have been prouder of what my team and Lytro as a whole achieved under amazing delivery pressure and fast evolving technology.
+There were quite a few long nights, long weeks and even long weekends full of cloud rendering but I couldn't have been prouder of what my team and Lytro as a whole achieved under amazing delivery pressure and a fast evolving technology stack.
 
 It was fun (at least kinda) to be reminded that mainstream entertainment deadlines (which I was used to from working with [Wild Rover](http://wild-rover.com/)) are absolutely, thoroughly immovable. Doing deep, rich and highly collaborative technical and creative work under those constraints creates a work environment that is often beautiful but sometimes terrifying.
 
