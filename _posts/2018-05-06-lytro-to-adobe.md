@@ -28,7 +28,7 @@ One thing that [my father](https://en.wikipedia.org/wiki/Philip_Morrow) reminded
 
 And then my time ([and the time of many others](https://techcrunch.com/2018/03/27/lytro-is-shutting-down/)) at Lytro was over.
 
-Fortunately I had long been discussing a role with (Photoshop creators) [Adobe](https://www.adobe.com/). The sticking point had been commuting from SF to San Jose. Fortunately we'd moved to [Sunnyvale](https://goo.gl/maps/bPWiKBy4ETG2) in December and [Jen had moved to Amazon](http://www.donotlick.com/2018/03/07/joining-amazon-to-talk-to-some-robots/) and so this was suddenly an easier prospect.
+Fortunately I had long been discussing a role with ([Photoshop](https://www.reddit.com/r/photoshopbattles/) creators) [Adobe](https://www.adobe.com/). The sticking point had been commuting from SF to San Jose. Fortunately we'd moved to [Sunnyvale](https://goo.gl/maps/bPWiKBy4ETG2) in December and [Jen had moved to Amazon](http://www.donotlick.com/2018/03/07/joining-amazon-to-talk-to-some-robots/) and so this was suddenly an easier prospect.
 
 Long story short, I have just started at Adobe, reporting directly to [Tony Koinov](http://blogs.adobe.com/adobelife/2018/03/28/meet-tony-koinov/) the new VP of Multi-Cloud. I am working with some amazing people for a company I have a very (positive) storied history with.
 
