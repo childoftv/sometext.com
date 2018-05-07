@@ -2,6 +2,8 @@
 title: Leaving Lytro aaand... Starting at Adobe
 ---
 
+<img src="assets/images/lytro.png"/>
+
 [Lytro](lytro.com) was so intense it is best summarized in a bullet list:
 
 At Lytro I had:
