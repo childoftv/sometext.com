@@ -4,13 +4,14 @@ title: Goggles down to look around
 
 <img src="assets/images/goggles_off_Gemini_Generated_Image.jpeg"/>
 
-***After 7 fantastic years working at Adobe and substantial landscape changes, I felt the overwhelming urge to re-center my work and look at the map as a whole with free hands and open eyes. I handed in my resignation in December.  After a brief trip to Europe and some rest I’m spending my time on these transformed personal and professional landscapes.***
+***After nearly 7 fantastic years working at Adobe and substantial landscape changes, I felt the overwhelming urge to re-center my work and look at the map as a whole with free hands and open eyes. I handed in my resignation in December.  After a brief trip to Europe and some rest I’m spending my time on these transformed personal and professional landscapes.***
 
 The last 10 years have been an incredible Silicon Valley Journey with my wife Jen…
 
+# Personal Landscape:
+
 <img src="assets/images/IMG_1602.jpg"/>
 
-# Personal Landscape:
 - We moved to (real?) “Silicon Valley” in [Sunnyvale](https://steveblank.com/2010/01/07/the-secret-history-of-silicon-valley-part-13-lockheed-the-startup-with-nuclear-missiles/) and then to our mountain home in [Kings Mountain/Woodside](https://maps.app.goo.gl/qS1eVh5bzSdbivNJ6)
 - We had and partially (pasture?) raised our two wonderful (if occasionally chaotic) children and I became an uncle twice (and soon 3x) over.
 - I worked in “Big tech” for the first time at Adobe (vs Jenny’s veteran 6th) 
@@ -18,7 +19,10 @@ The last 10 years have been an incredible Silicon Valley Journey with my wife Je
 - We made a range of angel investments, [some of which are proving successful](https://fluoraplant.com/)!
 - We finally got to participate in our [first serious IPO](https://deadline.com/2024/10/reddit-stock-rockets-first-profit-since-ipo-ai-1236162716/)
 
-# The technology sector also shifted dramatically:*
+# The technology sector also shifted dramatically:
+
+<img src="assets/images/MKBHD.jpg"/>
+
 - XR hardware at 100M user scale (which is HARD) ended up being a lot longer journey than industry predictions back in 2017/18
 - Generative AI transformed the codebases, interfaces and correspondingly, the work of engineers, designers, product managers alike. It may shortly transform work as a whole, the way companies and markets are architected and even global society whole.
 
