@@ -26,7 +26,7 @@ The last 10 years have been an incredible Silicon Valley Journey with my wife Je
 - XR hardware at 100M user scale (which is HARD) ended up being a lot longer journey than industry predictions back in 2017/18
 - Generative AI transformed the codebases, interfaces and correspondingly, the work of engineers, designers, product managers alike. It may shortly transform work as a whole, the way companies and markets are architected and even global society whole.
 
-# An amazing time working on [Adobe Aero](https://www.youtube.com/watch?v=7MW2_7sNlII) and [Aero Geospatial / Google Maps Geospatial Creator](https://www.linkedin.com/posts/googlearvr_historic-ar-paris-experience-in-google-maps-activity-7254914476515184640-m8_w?utm_source=share&utm_medium=member_ios&rcm=ACoAAAL0u4wBGAMq754uTGWUbnTWn_g1TvNJYXs)
+# An amazing time working on [Adobe Aero](https://www.youtube.com/watch?v=7MW2_7sNlII) and [Aero Geospatial / Google Maps Geospatial Creator](https://www.linkedin.com/posts/googlearvr_historic-ar-paris-experience-in-google-maps-activity-7254914476515184640-m8_w)
 
 Adobe was a tremendous employer and it’s impossible to express my gratitude to all the people involved, I would strongly recommend them to all comers. My thanks stretches far and wide into the industry also - with the incredible folks at both Google and Qualcomm who I had the chance to partner with on a bunch of awesome things that set up a bright future.
 
