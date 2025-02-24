@@ -4,7 +4,7 @@ title: Goggles down to look around
 
 <img src="assets/images/goggles_off_Gemini_Generated_Image.jpeg"/>
 
-After 7 fantastic years working at Adobe and substantial landscape changes, I felt the overwhelming urge to re-center my work and look at the map as a whole with free hands and open eyes. I handed in my resignation in December.  After a brief trip to Europe and some rest I’m spending my time on these transformed personal and professional landscapes.
+**After 7 fantastic years working at Adobe and substantial landscape changes, I felt the overwhelming urge to re-center my work and look at the map as a whole with free hands and open eyes. *I handed in my resignation in December*.  After a brief trip to Europe and some rest I’m spending my time on these transformed personal and professional landscapes.**
 
 The last 10 years have been an incredible Silicon Valley Journey with my wife Jen…
 
