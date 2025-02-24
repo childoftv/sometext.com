@@ -14,7 +14,7 @@ The last 10 years have been an incredible Silicon Valley Journey with my wife Je
 
 - We moved to (real?) “Silicon Valley” in [Sunnyvale](https://steveblank.com/2010/01/07/the-secret-history-of-silicon-valley-part-13-lockheed-the-startup-with-nuclear-missiles/) and then to our mountain home in [Kings Mountain/Woodside](https://maps.app.goo.gl/qS1eVh5bzSdbivNJ6)
 - We had and partially (pasture?) raised our two wonderful (if occasionally chaotic) children and I became an uncle twice (and soon 3x) over.
-- I worked in “Big tech” for the first time at Adobe (vs Jenny’s veteran 6th) 
+- I worked in “Big tech” for the first time at Adobe (vs Jen’s veteran 6th) 
 - We both got to see the forefront of the XR/Immersive (AR/VR) industries from up close at Adobe and Meta
 - We made a range of angel investments, [some of which are proving successful](https://fluoraplant.com/)!
 - We finally got to participate in our [first serious IPO](https://deadline.com/2024/10/reddit-stock-rockets-first-profit-since-ipo-ai-1236162716/)
