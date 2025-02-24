@@ -8,7 +8,7 @@ title: Goggles down to look around
 
 The last 10 years have been an incredible Silicon Valley Journey with my wife Jen…
 
-# Personal Landscape:
+# Personal Landscape
 
 <img src="assets/images/IMG_1602.jpg"/>
 
@@ -19,16 +19,22 @@ The last 10 years have been an incredible Silicon Valley Journey with my wife Je
 - We made a range of angel investments, [some of which are proving successful](https://fluoraplant.com/)!
 - We finally got to participate in our [first serious IPO](https://deadline.com/2024/10/reddit-stock-rockets-first-profit-since-ipo-ai-1236162716/)
 
-# The technology sector also shifted dramatically:
+# The technology sector also shifted dramatically
 
 <img src="assets/images/MKBHD.jpg"/>
 
 - XR hardware at 100M user scale (which is HARD) ended up being a lot longer journey than industry predictions back in 2017/18
 - Generative AI transformed the codebases, interfaces and correspondingly, the work of engineers, designers, product managers alike. It may shortly transform work as a whole, the way companies and markets are architected and even global society whole.
 
+# An amazing time working on [Adobe Aero](https://www.youtube.com/watch?v=7MW2_7sNlII) and [Aero Geospatial / Google Maps Geospatial Creator] (https://www.linkedin.com/posts/googlearvr_historic-ar-paris-experience-in-google-maps-activity-7254914476515184640-m8_w?utm_source=share&utm_medium=member_ios&rcm=ACoAAAL0u4wBGAMq754uTGWUbnTWn_g1TvNJYXs)
+
 Adobe was a tremendous employer and it’s impossible to express my gratitude to all the people involved, I would strongly recommend them to all comers. My thanks stretches far and wide into the industry also - with the incredible folks at both Google and Qualcomm who I had the chance to partner with on a bunch of awesome things that set up a bright future.
 
-I do, in particular, want to thank my manager and superstar mentor [Chantel Benson](https://www.linkedin.com/in/chantelbenson/) for her endless inspiration and patience through this extremely formative, productive and even transformational time in my life. 
+I do, in particular, want to thank my manager and superstar mentor [Chantel Benson](https://www.linkedin.com/in/chantelbenson/) for her endless inspiration and patience through this extremely formative, productive and even transformational time in my life.
+
+# Looking outward
+
+<img src="assets/images/IMG_7433.jpg"> 
 
 I get to look anew at the landscapes from the fortunate position of great freedom as well as better evaluation, learning and prototyping tools than ever before. I mean to utilize this immense privilege well.
 
