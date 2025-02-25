@@ -4,15 +4,15 @@ title: Goggles down to look around
 
 <img src="assets/images/goggles_off_Gemini_Generated_Image.jpeg"/>
 
-***After nearly 7 fantastic years working at Adobe and substantial landscape changes, I felt the overwhelming urge to re-center my work and look at the map as a whole with free hands and open eyes. I handed in my resignation in December.  After a brief trip to Europe and some rest I’m spending my time on these transformed personal and professional landscapes.***
+***After nearly 7 fantastic years working at Adobe and substantial landscape changes, I felt the overwhelming urge to recenter my work and look at the map as a whole with free hands and open eyes. I handed in my resignation in December.  After a brief trip to Europe and some rest I’m spending my time on these transformed personal and professional landscapes.***
 
 The last 10 years have been an incredible Silicon Valley Journey with my wife Jen…
 
 # Personal Landscape
 
-<img src="assets/images/IMG_1602.jpg"/>
+<img src="assets/images/IMG_1602.jpg" alt="My two kids in a lightsaber battle in our treehouse"/>
 
-- We moved to (real?) “Silicon Valley” in [Sunnyvale](https://steveblank.com/2010/01/07/the-secret-history-of-silicon-valley-part-13-lockheed-the-startup-with-nuclear-missiles/) and then to our mountain home in [Kings Mountain/Woodside](https://maps.app.goo.gl/qS1eVh5bzSdbivNJ6)
+- We moved from SF to (real?) “Silicon Valley” in [Sunnyvale](https://steveblank.com/2010/01/07/the-secret-history-of-silicon-valley-part-13-lockheed-the-startup-with-nuclear-missiles/) and then to our mountain home in [Kings Mountain/Woodside](https://maps.app.goo.gl/qS1eVh5bzSdbivNJ6)
 - We had and partially (pasture?) raised our two wonderful (if occasionally chaotic) children and I became an uncle twice (and soon 3x) over.
 - I worked in “Big tech” for the first time at Adobe (vs Jen’s veteran 6th) 
 - We both got to see the forefront of the XR/Immersive (AR/VR) industries from up close at Adobe and Meta
@@ -42,7 +42,7 @@ People sometimes ask me for advice re developing their business strategy muscles
 
 Accordingly, I’m spending a lot of time “tech investing”, working on angel investments (both current and new), having conversations about the technology landscape and experimenting with options investments as a way to better express my stances.
 
-Also (“movement and stillness”?) - a little skiing, hiking, gardening, reading and yes we may even finally throw same parties again!
+Also (“movement and stillness”?) - a little skiing, hiking, gardening, reading and yes we may even finally throw some parties again!
 
 <img src="assets/images/skiing_sugarbowl_2025.jpg"/>
 
