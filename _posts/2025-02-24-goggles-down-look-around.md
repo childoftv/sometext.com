@@ -12,7 +12,7 @@ The last 10 years have been an incredible Silicon Valley Journey with my wife Je
 
 <img src="assets/images/IMG_1602.jpg" alt="My two kids in a lightsaber battle in our treehouse"/>
 
-- We moved from SF to (real?) “Silicon Valley” in [Sunnyvale](https://steveblank.com/2010/01/07/the-secret-history-of-silicon-valley-part-13-lockheed-the-startup-with-nuclear-missiles/) and then to our mountain home in [Kings Mountain/Woodside](https://maps.app.goo.gl/qS1eVh5bzSdbivNJ6)
+- We moved from SF to (real?) “Silicon Valley” in [Sunnyvale](https://steveblank.com/2010/01/07/the-secret-history-of-silicon-valley-part-13-lockheed-the-startup-with-nuclear-missiles/) and then to our mountain home in [Kings Mountain/Woodside](https://maps.app.goo.gl/qS1eVh5bzSdbivNJ6) (cool treehouse shown above)
 - We had and partially (pasture?) raised our two wonderful (if occasionally chaotic) children and I became an uncle twice (and soon 3x) over.
 - I worked in “Big tech” for the first time at Adobe (vs Jen’s veteran 6th) 
 - We both got to see the forefront of the XR/Immersive (AR/VR) industries from up close at Adobe and Meta
