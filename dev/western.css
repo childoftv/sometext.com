@@ -1,0 +1,114 @@
+/* western.css - Western-style HTML stylesheet using standard fonts */
+
+body {
+    background-color: #f8f1e3;
+    color: #4b2e05;
+    font-family: "Georgia", "Times New Roman", Times, serif;
+    margin: 0;
+    padding: 0 80px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Georgia", "Times New Roman", Times, serif;
+    letter-spacing: 2px;
+    color: #7b4c16;
+    text-shadow: 1px 1px 0 #fff5e1, 2px 2px 2px #c9a063;
+    margin-top: 1.2em;
+    margin-bottom: 0.6em;
+}
+
+h1 {
+    font-size: 2.5em;
+    border-bottom: 3px double #c9a063;
+    padding-bottom: 0.2em;
+    margin-bottom: 0.8em;
+}
+
+h2 {
+    font-size: 2em;
+    border-bottom: 2px solid #c9a063;
+    padding-bottom: 0.2em;
+    margin-bottom: 0.6em;
+}
+
+a {
+    color: #ae6837;
+    text-decoration: underline;
+    font-weight: bold;
+    transition: color 0.2s;
+}
+
+a:hover {
+    color: #7b4c16;
+    text-decoration: none;
+}
+
+p, li, td {
+    font-size: 1.15em;
+    line-height: 1.7;
+    margin-bottom: 1em;
+}
+
+code, pre {
+    font-family: "Courier New", Courier, monospace;
+    background-color: #f4e9d6;
+    color: #3d2609;
+    border: 1px solid #c9a063;
+    border-radius: 3px;
+    padding: 2px 6px;
+}
+
+pre {
+    padding: 10px;
+    overflow: auto;
+}
+
+ul, ol {
+    margin-left: 2em;
+}
+
+blockquote {
+    border-left: 4px solid #c9a063;
+    background: #fff9ee;
+    color: #6a4411;
+    margin: 1em 0;
+    padding: 0.8em 1.2em;
+    font-style: italic;
+    font-family: "Georgia", "Times New Roman", Times, serif;
+}
+
+hr {
+    border: 0;
+    border-top: 2px dashed #c9a063;
+    margin: 2em 0;
+}
+
+table {
+    border-collapse: collapse;
+    margin: 1em 0;
+    width: 100%;
+    background: #fff9ee;
+}
+
+th, td {
+    border: 1px solid #c9a063;
+    padding: 0.6em 1em;
+    text-align: left;
+}
+
+th {
+    background-color: #e9d3b8;
+    color: #4b2e05;
+    font-weight: bold;
+}
+
+tr:nth-child(even) {
+    background-color: #f4e9d6;
+}
+
+/* Optional: Western-style divider */
+.western-divider {
+    width: 100%;
+    border-bottom: 4px double #7b4c16;
+    margin: 2em 0;
+}
